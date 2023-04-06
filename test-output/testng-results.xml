@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-24T16:44:10Z" name="Default Suite" finished-at="2023-01-24T16:44:45Z" duration-ms="34480">
+    <groups>
+    </groups>
+    <test started-at="2023-01-24T16:44:10Z" name="WebSiteAmazon" finished-at="2023-01-24T16:44:45Z" duration-ms="34480">
+      <class name="WebSite.TestUrl">
+        <test-method signature="OpenUrl()[pri:0, instance:WebSite.TestUrl@701fc37a]" started-at="2023-01-24T16:44:10Z" name="OpenUrl" finished-at="2023-01-24T16:44:45Z" duration-ms="34409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenUrl -->
+      </class> <!-- WebSite.TestUrl -->
+    </test> <!-- WebSiteAmazon -->
+  </suite> <!-- Default Suite -->
+</testng-results>
